@@ -24,3 +24,5 @@ git branch -a
 
 ¿Que significa el asterisco encima de una rama del proyecto?
 La rama marcada con asterisco es la rama actual (HEAD), lo que significa que es la rama en la que estas trabajando ahora mismo, cualquier commit que se haga se registrará en esa rama.
+
+Para ver las diferencias entre los dos archivos hemos utilizado el comando git diff ramaAlumno1 ramaAlumno2. PD: lo hemos hecho en menos de 2 minutos. 
