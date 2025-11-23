@@ -26,6 +26,18 @@ git pull origin master
 git checkout -b ramaAlumno1
 git branch -a
 
+## Comandos utilizados por el Alumno 3:
+git clone https://github.com/Ivaanxu/ES-GIT.git
+git branch ramaAlumno3
+git push origin ramaAlumno3
+
+
+## Comandos utilizados por el Alumno 4:
+git clone https://github.com/Ivaanxu/ES-GIT.git
+git branch ramaAlumno4
+git push origin ramaAlumno4
+
+
 ### ¿Que significa el asterisco encima de una rama del proyecto?
 La rama marcada con asterisco es la rama actual (HEAD), lo que significa que es la rama en la que estas trabajando ahora mismo, cualquier commit que se haga se registrará en esa rama.
 
