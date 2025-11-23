@@ -1,0 +1,31 @@
+3525981 - Alejandro Bastida Rodriguez - Sun Nov 23 12:12:22 2025 +0100 - Solucionando conflictos
+52d5543 - Ivaanxu - Sun Nov 23 12:09:03 2025 +0100 - Merge branch 'master' of https://github.com/Ivaanxu/ES-GIT
+b4eef1b - Ivaanxu - Sun Nov 23 12:07:27 2025 +0100 - Merge branch 'ramaAlumno1'
+f163f23 - Alejandro Bastida Rodriguez - Sun Nov 23 12:07:27 2025 +0100 - Merge branch 'ramaAlumno4' merge
+b49c189 - Ivaanxu - Sun Nov 23 12:04:28 2025 +0100 - Añadiendo lineaDeCompra
+a601f6c - Alejandro Bastida Rodriguez - Sun Nov 23 12:04:14 2025 +0100 - Añadiendo lineaDeCompra.java
+645a61f - Alejandro Bastida Rodriguez - Sun Nov 23 12:03:39 2025 +0100 - Añadiendo LineaDeCompra.java
+c853c46 - Alejandro Bastida Rodriguez - Sun Nov 23 11:57:40 2025 +0100 - Añadiendo lineaDeCompra.java
+2d1ed37 - Ivaanxu - Sun Nov 23 11:56:43 2025 +0100 - Añadiendo compra.java
+4fb6644 - Ivaanxu - Sun Nov 23 11:54:43 2025 +0100 - Merge branch 'ramaAlumno1'
+a19a18e - Alejandro Bastida Rodriguez - Sun Nov 23 11:52:06 2025 +0100 - Solucionando merge
+27a8e14 - danifedzz19 - Sun Nov 23 11:45:00 2025 +0100 - Solucionando merge
+68ea349 - Alejandro Bastida Rodriguez - Sun Nov 23 11:30:57 2025 +0100 - Merge branch 'master' of https://github.com/Ivaanxu/ES-GIT into ramaAlumno3 pull
+7168e1e - Alejandro Bastida Rodriguez - Sun Nov 23 11:29:13 2025 +0100 - Modificando Pantalla.java por el Alumno4
+180f11d - Alejandro Bastida Rodriguez - Sun Nov 23 11:28:01 2025 +0100 - Modificando Pantalla.java por Alumno3
+5c904f7 - Ivaanxu - Sun Nov 23 11:22:25 2025 +0100 - Merge branch 'master' of https://github.com/Ivaanxu/ES-GIT into ramaAlumno1
+e413b16 - Ivaanxu - Sun Nov 23 11:20:07 2025 +0100 - Añadir un nuevo medicamento
+509cb71 - danifedzz19 - Sun Nov 23 11:11:09 2025 +0100 - Añadido un menú en Pantalla.java
+a598333 - Alex2 - Sun Nov 23 10:56:59 2025 +0100 - Update README.md
+55d4d7f - Alex - Sun Nov 23 10:48:40 2025 +0100 - Add additional student information to README
+9722959 - Ivaanxu - Tue Nov 18 13:02:49 2025 +0100 - README actualizado a la entrega parcial
+2f259f5 - Ivaanxu - Tue Nov 18 12:55:10 2025 +0100 - Merge branch 'master' of https://github.com/Ivaanxu/ES-GIT
+09f2dd6 - danifedzz19 - Tue Nov 18 12:51:54 2025 +0100 - Diferencias entre códigos
+63da0f3 - danifedzz19 - Tue Nov 18 12:50:54 2025 +0100 - Diferencias entre códigos
+0645fc0 - danifedzz19 - Tue Nov 18 12:44:02 2025 +0100 - Añadiendo fichero cliente.java
+afcef09 - Ivaanxu - Tue Nov 18 12:43:43 2025 +0100 - Añadiendo fichero almacen_cli.java
+3473040 - Ivaanxu - Tue Nov 18 12:32:57 2025 +0100 - Comandos de creación de rama y respuesta a la pregunta de para que es el asterisco
+0b6914c - Ivaanxu - Tue Nov 18 12:21:07 2025 +0100 - Modificación con los comandos del Alumno 1
+c5dab17 - danifedzz19 - Tue Nov 18 12:14:54 2025 +0100 - Respuesta pregunta
+ba2f13f - danifedzz19 - Tue Nov 18 11:45:33 2025 +0100 - Adición README
+10b159a - Ivaanxu - Tue Nov 4 12:43:55 2025 +0100 - Inicialización del repositorio con archivos Farmacia
