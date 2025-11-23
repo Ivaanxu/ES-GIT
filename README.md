@@ -27,15 +27,20 @@ git checkout -b ramaAlumno1
 git branch -a
 
 ## Comandos utilizados por el Alumno 3:
-git clone https://github.com/Ivaanxu/ES-GIT.git
-git branch ramaAlumno3
-git push origin ramaAlumno3
+git clone https://github.com/Ivaanxu/ES-GIT.git;
+git branch ramaAlumno3;
+git push origin ramaAlumno3;
+git whatchanged -p --pretty=fuller -n 5;
+git cherry master ramaAlumno3;
 
 
 ## Comandos utilizados por el Alumno 4:
-git clone https://github.com/Ivaanxu/ES-GIT.git
-git branch ramaAlumno4
-git push origin ramaAlumno4
+git clone https://github.com/Ivaanxu/ES-GIT.git;
+git branch ramaAlumno4;
+git push origin ramaAlumno4;
+git diff;
+git shortlog -s -n --all --no-merges;
+git log --oneline > LogAlumnoX.txt;
 
 
 ### ¿Que significa el asterisco encima de una rama del proyecto?
