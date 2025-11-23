@@ -62,7 +62,20 @@ Los tres alumnos que han recibido el error hacen lo siguiente:
 - Resolver el conflicto (Usamos un editor para visualizar las diferencias)
 - Confirmar la fusión. Comandos: git add, git commit y git push origin master
 
+### Comando usado para contar los commits
+Hemos usado el comando git shortlog con las opciones:
+- -s (summary): Muestra solo el resumen, no el texto de los commits.
+- -n (numbered): Ordena la lista numéricamente de mayor a menor.
+
 ### Commits realizados
 Alejandro Bastida Rodríguez: 14 (sumando sus cuentas)
 Iván García Iglesias: 13
 Daniel Fernandez Ruiz: 10
+
+### ¿Qué hace git cherry?
+Este comando busca los commits que existen en una rama pero no en la otra (basándose en el contenido del cambio, no solo en el ID del commit). 
+#### Como interpretar la salida
+- +: Significa que este commit NO está en master. Es trabajo nuevo pendiente de subir o fusionar.
+- -: Significa que un cambio equivalente a este commit ya está en master (quizás fue fusionado, aunque tenga otro ID).
+
+Para comprobar qué commits de una rama no se han volcado aún en master, utilizamos el comando git cherry -v master.
