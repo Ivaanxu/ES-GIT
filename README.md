@@ -49,3 +49,20 @@ No, no lo hemos podido realizar de la misma manera, porque cuando el primero hac
 
 ### Credencieales
 Al estar usando la autentificación SSH no nos piden las credenciales constantemente.
+
+### Ganador
+Alejandro Bastida Rodriguez
+
+### ¿Qué pasa cuando tratamos de hacer todos commit?
+Lo que ha ocurrido es que el más rápido de nosotros ha conseguido subir sus cambios al servidor, cuando los otros 3 alumnos han intentado hacer su git push un segundo después, Git muestra un mensaje de error rechazando la subida porque tenemos una versión "vieja" del repositorio y la rama local está desactualizada respecto a lo que ahora hay en GitHub (los cambios del ganador). El error es: rejected - non-fast-forward.
+
+#### Solución
+Los tres alumnos que han recibido el error hacen lo siguiente:
+- Bajar los cambios del ganador. Comando: git pull origin master
+- Resolver el conflicto (Usamos un editor para visualizar las diferencias)
+- Confirmar la fusión. Comandos: git add, git commit y git push origin master
+
+### Commits realizados
+Alejandro Bastida Rodríguez: 14 (sumando sus cuentas)
+Iván García Iglesias: 13
+Daniel Fernandez Ruiz: 10
