@@ -1,5 +1,9 @@
 # Alumno 1: Iván García Iglesias
 # Alumno 2: Daniel Fernández Ruiz
+# Alumno 3: Alejandro Bastida Rodríguez -> alexdrin / Alex
+# Alumno 4: Alejandro Bastida Rodríguez -> alexdrin773/ Alex2
+
+https://github.com/Ivaanxu/ES-GIT.git
 
 ## Comandos utilizados por el Alumno 2:
 git clone
